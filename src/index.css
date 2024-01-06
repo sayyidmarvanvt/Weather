@@ -19,7 +19,8 @@ h1{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("blue-sky-white-clouds-nature-summer-weather-background_261642-1685.webp") no-repeat center center/cover;
+ 
+  background: url("\photo-1483728642387-6c3bdd6c93e5.webp") no-repeat center center/cover;
 }
 
 .search{
