@@ -43,7 +43,7 @@ h1{
 
 .container{
   background: rgba(225, 225, 225, 0.);
-  border: 1px solid rgba(225, 225, 225, 0.8);
+  /* border: 1px solid rgba(225, 225, 225, 0.8); */
   width: 22rem;
   height: 30rem;
   border-radius: 25px;
