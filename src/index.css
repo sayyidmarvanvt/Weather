@@ -6,10 +6,10 @@
 }
 
 p{
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 h1{
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 
 .app{
@@ -42,9 +42,9 @@ h1{
 }
 
 .container{
-  background: rgba(225, 225, 225, 0.1);
+  background: rgba(225, 225, 225, 0.);
   border: 1px solid rgba(225, 225, 225, 0.8);
-  width: 25rem;
+  width: 22rem;
   height: 30rem;
   border-radius: 25px;
   padding: 0 1rem;
