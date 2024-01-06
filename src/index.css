@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+p{
+  font-size: 1.2rem;
+}
+h1{
+  font-size: 4.5rem;
+}
+
+.app{
+  width: 100%;
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("blue-sky-white-clouds-nature-summer-weather-background_261642-1685.webp") no-repeat center center/cover;
+}
+
+.search{
+  text-align: center;
+  padding: 1rem;
+}
+
+.search input{
+  padding: .7rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  border: 1px solid rgba(225, 225, 225, 0.8);
+  background: rgba(225, 225, 225, 0.1);
+  outline: none;
+  color: #f8f8f8;
+}
+::placeholder{
+  color: #f8f8f8;
+}
+
+.container{
+  background: rgba(225, 225, 225, 0.1);
+  border: 1px solid rgba(225, 225, 225, 0.8);
+  width: 25rem;
+  height: 30rem;
+  border-radius: 25px;
+  padding: 0 1rem;
+  top: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+}
+
+.app .top{
+  width: 100%;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.app .bottom{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: rgba(225, 225, 225, 0.2);
+}
+.bold{
+  font-weight: 600;
+}
+img{
+  height: 90px;
+  width: 80px;
+}
+.description{
+  text-align: center;
+}
