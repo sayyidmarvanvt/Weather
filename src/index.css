@@ -20,7 +20,7 @@ h1{
   justify-content: center;
   align-items: center;
  
-  background: url("\photo-1483728642387-6c3bdd6c93e5.webp") no-repeat center center/cover;
+  background: url("/photo-1483728642387-6c3bdd6c93e5.webp") no-repeat center center/cover;
 }
 
 .search{
